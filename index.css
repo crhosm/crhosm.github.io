@@ -5,9 +5,9 @@ html {
 body {
 	width: 100%;
 	height: 100%;
-	background: url("https://i.ytimg.com/vi/UFND3Npprns/maxresdefault.jpg") no-repeat scroll;
 	margin: 0; 
 	padding: 0;
+	background: url("https://i.ytimg.com/vi/UFND3Npprns/maxresdefault.jpg") no-repeat scroll;
 }
 
 /*#container{
@@ -29,15 +29,15 @@ body {
 	 margin: 0;
 	 padding: 5px;
 	 border-bottom-color: 5px solid yellow;
-	 background-color: white;
 	 box-sizing: border-box;
+	 background-color: white;
 	 opacity: 0.0;
 }   
 
 #header p {
-	font-size: 40px;
 	margin: 0;
 	padding: 0;
+	font-size: 40px;
 	font-weight: bold;
 	color: yellow;
 }   
@@ -48,14 +48,15 @@ body {
 	margin: 0;
 	padding: 1%;
 	border-left-color: 5px solid yellow;
-	float: left;
 	box-sizing: border-box;
+	float: left;
 	background: black;
 	opacity: 0.5;
 } 
 
 #sidebar p {
 	margin: 0;
+	padding: 0;
 	color: white;
 }          
 
@@ -66,14 +67,15 @@ body {
 	padding: 1%;
 	border-left-color: 5px solid yellow;
 	border-right-color: 5px solid yellow;
-	float: left;
 	box-sizing: border-box;
+	float: left;
 	background: white;
 	opacity: 0.0;
 }
 
 #content p{
 	margin: 0;
+	padding: 0;
 	color: yellow;
 }          
 
@@ -83,8 +85,8 @@ body {
 	margin: 0;
 	padding: 0;
 	border-top-color: 5px solid yellow;
-	float: left;
 	box-sizing: border-box;
+	float: left;
 	background: black;
 	opacity: 0.8;
 	clear:both;
