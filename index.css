@@ -16,7 +16,8 @@ body {
 
 #header p {
 	font-size: 40px;
-	margin: 10%;
+	margin: 20px;
+	padding: 20px;
 	font-weight: bold;
 	color: yellow;
 }   
@@ -25,15 +26,15 @@ body {
 	width: 25%;
 	height: 70%;
 	margin: 0;
-	padding: 0;
+	padding: 5px;
 	border: 5px solid yellow;
 	float: left;
-	background: blue;
+	background: white;
 	opacity: 0.5;
 } 
 
 #sidebar p {
-	margin: 5%;
+	margin: 0;
 	color: yellow;
 }          
 
@@ -41,7 +42,7 @@ body {
 	width: 75%;
 	height: 70%;
 	margin: 0;
-	padding: 0;
+	padding: 5px;
 	border: 5px solid yellow;
 	float: left;
 	background: white;
@@ -49,7 +50,7 @@ body {
 }
 
 #content p{
-	margin: 5%;
+	margin: 0;
 	color: yellow;
 }          
 
