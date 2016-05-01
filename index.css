@@ -1,11 +1,13 @@
 html {
 	color: purple;
+
 }
 
 body {background: url("https://i.ytimg.com/vi/UFND3Npprns/maxresdefault.jpg");; margin: 0; padding: 0;} 
 a {color: purple;}           
 #container {width: 100%; margin: 0; padding: 0; background: white; opacity: 0.0;}           
-#header {width: 100%; 	height: 15%; 	margin: 0; padding: 0; border: 0; background: white; opacity: 0.0; /*color: yellow; font-size: 20px;*/}           
+#header {width: 100%; 	height: 15%; 	margin: 0; padding: 0; border: 0; background: white; opacity: 0.0;}
+a {color: yellow; font-size: 20;}           
 #sidebar {width: 25%; height: 70%; 	margin: 0; padding: 0; border: 0 ; float: left; background: white; opacity: 0.5;}           
 #content {width: 75%; height: 70%; 	margin: 0; padding: 0; border: 0; float: left; background: white; opacity: 0.0;}           
 #footer {width: 100%; 	height: 15%; 	margin: 0; padding: 0; border: 0; float: left; background: black; opacity: 0.8; clear:both;}          
