@@ -1,5 +1,7 @@
 body {
-	background: url("https://i.ytimg.com/vi/UFND3Npprns/maxresdefault.jpg") no-repeat scroll; 
+	background: url("https://i.ytimg.com/vi/UFND3Npprns/maxresdefault.jpg")
+	background-repeat: no-repeat
+	background-attachment: scroll; 
 	margin: 0; 
 	padding: 0;
 }
