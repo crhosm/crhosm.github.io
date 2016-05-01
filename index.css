@@ -32,11 +32,11 @@ body {
 }   
 
 #sidebar {
-	width: 25%;
-	height: 70%;
+	width: 21%;
+	height: 66%;
 	margin: 0;
-	padding: 5px;
-	border: 5px solid yellow;
+	padding: 1%;
+	border: 1% solid yellow;
 	float: left;
 	background: black;
 	opacity: 0.5;
@@ -48,11 +48,11 @@ body {
 }          
 
 #content {
-	width: 75%;
-	height: 70%;
+	width: 71%;
+	height: 66%;
 	margin: 0;
-	padding: 5px;
-	border: 5px solid yellow;
+	padding: 1%;
+	border: 1% solid yellow;
 	float: left;
 	background: white;
 	opacity: 0.0;
