@@ -22,6 +22,10 @@ body {
 	opacity: 0.0;
 }
 */
+
+.clearfix {
+    overflow: auto;
+}
     
 #header {
 	 width: 100%;
