@@ -2,7 +2,7 @@ html {
 	color: purple;
 }
 
-body {background: black; margin: 0; padding: 0;} 
+body {background: gray; margin: 0; padding: 0;} 
 a {color: #2b2bf6;}           
 #container {width: 900px; margin: 0; padding: 0; background: #dddddd;}           
 #header {width: 900px; 	height: 150px; 	margin: 0; padding: 0; border: 0; background: #f346e1;}           
