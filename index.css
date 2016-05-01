@@ -32,7 +32,7 @@ body {
 	 height: 15%;
 	 margin: 0;
 	 padding: 5px;
-	 border-bottom-color: 5px solid yellow;
+	 border: 0;
 	 box-sizing: border-box;
 	 background-color: white;
 	 opacity: 0.0;
@@ -51,7 +51,7 @@ body {
 	height: 70%;
 	margin: 0;
 	padding: 1%;
-	border-left-color: 5px solid yellow;
+	border: 5px solid yellow;
 	box-sizing: border-box;
 	float: left;
 	background: black;
@@ -69,8 +69,7 @@ body {
 	height: 70%;
 	margin: 0;
 	padding: 1%;
-	border-left-color: 5px solid yellow;
-	border-right-color: 5px solid yellow;
+	border: 5px solid yellow;
 	box-sizing: border-box;
 	float: left;
 	background: white;
@@ -88,7 +87,7 @@ body {
 	height: 15%;
 	margin: 0;
 	padding: 0;
-	border-top-color: 5px solid yellow;
+	border: 0;
 	box-sizing: border-box;
 	float: left;
 	background: black;
